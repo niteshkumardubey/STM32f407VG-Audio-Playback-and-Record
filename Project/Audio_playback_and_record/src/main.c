@@ -47,11 +47,6 @@ static void TIM_LED_Config(void);
   * @param  None
   * @retval None
 */
-void del()
-{
-
-
-}
 
 int main(void)
 { 
